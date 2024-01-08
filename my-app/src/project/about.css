@@ -1,0 +1,79 @@
+ .aboutmainbox{
+     /* border: 2px solid black; */
+     /* background-color: rgb(12, 11, 11);  */
+    /* height: 500px; */
+    display: flex;
+    justify-content: center;
+ }
+ .aboutbox{
+    /* border: 2px solid rgb(68, 16, 165);  */
+    background-color: rgb(4, 4, 58);
+    border-radius: 50px;
+    width: 800px; 
+    margin: 10px;
+    display: flex;
+    justify-content: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+} 
+.aboutcontainer{
+    background-color: white;
+    border: 5px solid rgb(10, 10, 10); 
+    border-radius: 20px;
+    border-style: groove;
+    /* padding: 5px; */
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px; 
+    display: flex;
+    flex-direction: column;
+} 
+.container{
+    /* border: 2px solid blue; */
+    border-radius: 10px; 
+    display: flex;
+    flex-direction: row;
+    /* justify-content:space-between; */
+} 
+.abt-title{
+    color: white;
+    margin:20px;
+}
+.aboutimg{
+    border: 2px dotted rgb(31, 23, 143);
+    width: 250px;
+    height: 250px;
+    margin-top:30px;
+}
+.aboutbody{
+    /* border: 2px solid black; */
+    /* width: 400px; */
+    /* text-align: left; */
+    font-weight: bold;
+    margin:5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.btn2{
+    /* border: 2px solid rgb(238, 213, 27);  */
+    margin-bottom: 10px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.aboutbutton{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn1{
+    /* border: 2px solid red; */
+    width: 150px;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,37 @@
+.position{
+    /* border: 2px solid red; */
+    position: sticky;
+    top:0%;
+    z-index: 1;
+}
+.nav{
+    /* position: sticky; */
+    background-color: black;
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    position: sticky;
+}
+.n1{
+     /* border: 2px solid blue; */
+     width: 200px;     
+}
+img{
+    /* border:2px solid blue; */
+    border-radius: 50px;
+}
+.n2{
+    width:400px;
+      /* border: 2px solid blue;  */
+    display: flex;
+    justify-content:space-around;
+    padding-top: 25px;
+    /* padding-right: 20px; */
+}
+.l1{
+    color: white;
+    font-weight: bold;
+    font-size:25px;
+    text-decoration:noney;
+}
